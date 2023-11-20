@@ -10,7 +10,6 @@ Key Features:
 - React application with Redux for state management
 - Responsive and mobile-friendly design
 - User registration and login forms
-- Dark mode and theming support
 - Home page with dynamic post widgets
 - User profiles with profile picture, bio, and posts
 - Seamless integration with the backend API
